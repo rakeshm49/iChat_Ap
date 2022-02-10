@@ -1,0 +1,14 @@
+{
+  "name": "ichat",
+  "version": "1.0.0",
+  "description": "This is ichat application using nodejs and socket.io",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
+}
